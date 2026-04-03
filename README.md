@@ -1,5 +1,3 @@
-# Power-Bi-Project-for-Performance-Analysis
-
 # Analyse de Performance Financière : YTD vs PYTD
 
 Ce projet consiste en la création d'un tableau de bord interactif sous **Power BI** pour analyser la performance commerciale et comparer les résultats actuels avec l'année précédente.
